@@ -55,9 +55,6 @@
 <br>
 <br>
 
-<details>
-  <summary>🏆 Certificates</summary>
-  <br>
 
 📄 Certificates will be added here as I earn them.
 
