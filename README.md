@@ -55,9 +55,6 @@
 <br>
 <br>
 
-
-📄 Certificates will be added here as I earn them.
-
 </details>
 
 <br>
