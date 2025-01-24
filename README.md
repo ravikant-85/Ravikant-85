@@ -96,7 +96,7 @@
 <br>
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikant123&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="ravikant123" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikant123&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="ravikant-85" />
 
 </details>                     
 <br>
@@ -157,29 +157,29 @@
 
 # Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant123&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="ravikant123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-85&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="ravikant-85" /></p>
 
 <p align="left"><img
                 src="https://github-readme-stats.vercel.app/api?username=ravikant123&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
                 alt="ravikant123" height="170" /></p>
 
-<img src="https://img.shields.io/github/followers/ravikant123.svg?style=social&amp;label=Follow"
+<img src="https://img.shields.io/github/followers/ravikant-85.svg?style=social&amp;label=Follow"
         style="max-width: 100%;" />
         
 <br>      
 <details>
   
 <p align="center">
-  <a href="https://github.com/ravikant123">
+  <a href="https://github.com/ravikant-85">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravikant123&theme=transparent" />
   </a>
-  <a href="https://github.com/ravikant123">
+  <a href="https://github.com/ravikant-85">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant123&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/ravikant123">
+  <a href="https://github.com/ravikant-85">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravikant123&theme=transparent" />
   </a>
-  <a href="https://github.com/ravikant123">
+  <a href="https://github.com/ravikant-85">
 
 </details>
 
