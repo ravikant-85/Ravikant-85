@@ -152,7 +152,7 @@
 <p align="center">
    <a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant123&theme=dark&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-85&theme=dark&hide_border=true"/>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
    </a>
 </p>
@@ -188,9 +188,9 @@
 <br><br>
 
 <div align="center">
-<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-rainbow.svg">
+<!--<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-rainbow.svg">
 </div>
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/ravikant123/ravikant123/output/github-contribution-grid-snake-dark.svg)
+<!--![Snake animation Contribution Graph](https://raw.githubusercontent.com/ravikant123/ravikant123/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
