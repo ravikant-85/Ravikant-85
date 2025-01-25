@@ -98,7 +98,7 @@
 <br>
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikant123&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="ravikant-85" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikant-85&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="ravikant-85" />
 
 </details>                     
 <br>
@@ -115,9 +115,9 @@
 <br/>
 
 <details>
-  <summary>Expand</summary> 
+<!--  <summary>Expand</summary> 
 
-| Overview | Follow up Issues & PRs |
+<!--| Overview | Follow up Issues & PRs |
 |:--------:|:-------------------------:|
 | ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
 | Leetcode Stats | Notable Contributions |
@@ -126,7 +126,7 @@
 | ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
 | Discussions | Reactions |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
-</details>                     
+</details>                    
 <br>
 <br/>
 
@@ -139,12 +139,12 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/ravi-kant-123"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
+  <a href="https://www.linkedin.com/in/ravi-kant-53967b204/"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
   <br>
-  <a href="https://medium.com/@ravikant123/"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
-  <a href="https://twitter.com/ravikant123"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
+  <a href="https://medium.com/@ravikantmathur8595"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
+  <a href="https://x.com/KantRavi55911"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
   <br>
-  <a href="mailto:ravikant@example.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="mailto:ravikantmathur8595@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
 </div>
 
 <hr>
@@ -162,8 +162,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-85&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="ravikant-85" /></p>
 
 <p align="left"><img
-                src="https://github-readme-stats.vercel.app/api?username=ravikant123&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
-                alt="ravikant123" height="170" /></p>
+                src="https://github-readme-stats.vercel.app/api?username=ravikant85&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
+                alt="ravikant-85" height="170" /></p>
 
 <img src="https://img.shields.io/github/followers/ravikant-85.svg?style=social&amp;label=Follow"
         style="max-width: 100%;" />
