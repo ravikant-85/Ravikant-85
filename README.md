@@ -173,13 +173,13 @@
   
 <p align="center">
   <a href="https://github.com/ravikant-85">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravikant123&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravikant-85&theme=transparent" />
   </a>
   <a href="https://github.com/ravikant-85">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant123&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-85&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/ravikant-85">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravikant123&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravikant-85&theme=transparent" />
   </a>
   <a href="https://github.com/ravikant-85">
 
