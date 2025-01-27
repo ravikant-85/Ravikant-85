@@ -28,7 +28,7 @@
 ### <p align="center">My Technical Skills</p>
 
 <p align="center">
-  <a href="https://ravikant123.netlify.app">
+  <a href="https://app.netlify.com/teams/ravikant-85/sites">
     <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
   </a>
 </p>
