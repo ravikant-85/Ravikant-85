@@ -161,8 +161,7 @@
                 alt="ravikant-85" height="170" /></p>
 
 <img src="https://img.shields.io/github/followers/ravikant-85.svg?style=social&amp;label=Follow"
-        style="max-width: 100%;" />
-        
+        style="max-width: 100%;" /> 
 <br>      
 <details>
   
